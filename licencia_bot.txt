@@ -7,3 +7,4 @@ D4:93:90:54:1B:F6- lienco
 EB:D0:8B:02:EE:9C-liencomsi
 DC:56:7B:1E:9A:EA-LIENCORYZEN
 ED:74:AB:E6:92:D0-jordinew
+C8:34:8E:17:1F:47-liencouniversity
